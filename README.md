@@ -8,7 +8,7 @@ The dataset can be dowloaded from [link to dataset](https://figshare.com/s/7937b
 
 In each folder, you'll find the code necessary to replicate the steps of the experimental campaign.
 
-In particular, **5_usage_node** folder contains the notebook and the instructions for training and testing an Intrusion Detector based on machine learning using the ROSpace dataset.
+In particular, **5_usage_mode** folder contains the notebook and the instructions for training and testing an Intrusion Detector based on machine learning using the ROSpace dataset.
 
 ## System and Dataset description
 ROSPaCe is a dataset for intrusion detection composed by performing penetration testing on SPaCe, an embedded cyber-physical system built over Robot Operating System 2 (ROS2). Features are monitored from three architectural layers: the Linux operating system, the network, and the ROS2 services.
