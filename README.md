@@ -16,7 +16,8 @@ We perform attacks through the execution of discovery and DoS attacks, for a tot
 The final version of ROSPaCe includes 30 247 050 data points and 482 columns excluding the label. The features are 25 from the the Linux operating system, 5 from the ROS2 services, and 422 from the network. The dataset is encoded in the complete_dataset.csv 
 file for a total of 40.5 GB. The dataset contains about 23 million attack data points and above 6.5 million normal data points (78% attacks, 22% normal). We provide a lightweight version of the ROSpace dataset by selecting the best-performing 60 features. This includes the 30 features from the Linux operating system, the ROS2 services, and the 30 best-performing features from the network.
 
-![image](https://github.com/TommasoPuccetti/rospace_dataset/assets/103670615/df16aa21-3a0b-42c2-9fd7-a619f9c79e5b)
+![image](![image](https://github.com/TommasoPuccetti/rospace_dataset/assets/103670615/8153b1e4-0910-4384-869f-78baf046089a)
+)
 
 ## Files in the repository
 In particular:
