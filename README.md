@@ -4,7 +4,7 @@ This repository includes all the code used for the paper:
 
 **Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System** ([link to preprint](https://arxiv.org/abs/2402.08468)).
 
-The dataset can be dowloaded from [link to dataset](https://figshare.com/s/7937b17067d20f57fee4).
+The dataset can be dowloaded from [link to dataset]([https://figshare.com/s/7937b17067d20f57fee4](https://springernature.figshare.com/collections/ROSpace_Intrusion_Detection_Dataset_for_a_ROS2-Based_Cyber-Physical_System/6924364).
 
 In each folder, you'll find the code necessary to replicate the steps of the experimental campaign.
 
